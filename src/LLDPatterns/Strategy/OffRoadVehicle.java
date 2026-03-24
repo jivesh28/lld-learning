@@ -2,5 +2,7 @@ package LLDPatterns.Strategy;
 
 public class OffRoadVehicle extends Vehicle{
 
-    super(new SportsDriveStrategy());
+    public OffRoadVehicle(){
+        super( new SportsDriveStrategy());
+    }
 }
