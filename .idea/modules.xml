@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java Mastery.iml" filepath="$PROJECT_DIR$/Java Mastery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lld-learning.iml" filepath="$PROJECT_DIR$/.idea/lld-learning.iml" />
     </modules>
   </component>
 </project>
